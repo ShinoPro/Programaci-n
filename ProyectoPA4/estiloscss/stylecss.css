@@ -1,0 +1,16 @@
+*{
+    background-color: aliceblue;
+}
+
+h1{
+    padding: 0;
+    border: 5px;
+    border-color: black;
+}
+
+img{
+    
+    border: 5px;
+    width: 150px;
+    height: 150px;
+}
